@@ -1,0 +1,14 @@
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\bin\Debug\net8.0\Aplicando a orientacao a objetos.exe
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\bin\Debug\net8.0\Aplicando a orientacao a objetos.deps.json
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\bin\Debug\net8.0\Aplicando a orientacao a objetos.runtimeconfig.json
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\bin\Debug\net8.0\Aplicando a orientacao a objetos.dll
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\bin\Debug\net8.0\Aplicando a orientacao a objetos.pdb
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\obj\Debug\net8.0\Aplicando a orientacao a objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\obj\Debug\net8.0\Aplicando a orientacao a objetos.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\obj\Debug\net8.0\Aplicando a orientacao a objetos.AssemblyInfo.cs
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\obj\Debug\net8.0\Aplicando a orientacao a objetos.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\obj\Debug\net8.0\Aplicando a orientacao a objetos.dll
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\obj\Debug\net8.0\refint\Aplicando a orientacao a objetos.dll
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\obj\Debug\net8.0\Aplicando a orientacao a objetos.pdb
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\obj\Debug\net8.0\Aplicando a orientacao a objetos.genruntimeconfig.cache
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos\obj\Debug\net8.0\ref\Aplicando a orientacao a objetos.dll
