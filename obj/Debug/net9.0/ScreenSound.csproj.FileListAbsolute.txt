@@ -12,3 +12,4 @@ C:\Users\marce\Desktop\Alura\C#\Dominando OO\ScreenSound03-projeto-inicial\Scree
 C:\Users\marce\Desktop\Alura\C#\Dominando OO\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net9.0\ScreenSound.pdb
 C:\Users\marce\Desktop\Alura\C#\Dominando OO\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net9.0\ScreenSound.genruntimeconfig.cache
 C:\Users\marce\Desktop\Alura\C#\Dominando OO\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net9.0\ref\ScreenSound.dll
+C:\Users\marce\Desktop\Alura\C#\Dominando OO\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net9.0\ScreenSound.sourcelink.json

@@ -15,8 +15,10 @@ internal class Banda
     {
         get
         {
-            if (notas.Count == 0) return 0;
-            else return notas.Average(a => a.Nota);
+            if (notas.Count == 0)
+                return 0;
+            else
+                return notas.Average(a => a.Nota);
         }
     }
     public List<Album> Albuns => albuns;
