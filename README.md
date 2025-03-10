@@ -1,5 +1,5 @@
 # Orientação a objetos
-Projeto do curso "C#: aplicando a Orientação a Objetos" da plataforma Alura
+Projeto dos cursos "C#: aplicando a Orientação a Objetos" e "C#: dominando Orientação a Objetos" da plataforma Alura
 
 ## ⚡Descrição do projeto
 O projeto consiste em uma aplicação para registrar bandas musicais e suas músicas 
